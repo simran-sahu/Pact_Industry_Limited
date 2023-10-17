@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Oct 2023 07:48:32 at https://hmisheetmetal.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hmisheetmetal.com/ -O1 "C:\My Web Sites\Metal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:49:15	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/apple-touch-icon.png (from https://hmisheetmetal.com/)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/js/libs/jquery-1.7.min.js (from https://hmisheetmetal.com/)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/css/owl.video.play.png (from https://hmisheetmetal.com/css/owl.carousel.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-semibold/eot/style_169898.eot (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-semibold/eot/style_169898.eot? (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-semibold/woff/style_169898.woff (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-semibold/ttf/style_169898.ttf (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-semibold/svg/style_169898.svg (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-medium/eot/1110FC_0.eot (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-medium/eot/1110FC_0.eot? (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-medium/woff/1110FC_0.woff (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/slider/webfonts/1110FC_0.svg (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-regular/eot/11014B_0.eot (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-regular/eot/11014B_0.eot? (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-regular/woff/11014B_0.woff (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-regular/ttf/11014B_0.ttf (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/fonts/webfonts/geo-regular/svg/11014B_0.svg (from https://hmisheetmetal.com/slider/demo.css)
+07:50:11	Error: 	"Not Found" (404) at link https://hmisheetmetal.com/images/bg_direction_nav.png (from https://hmisheetmetal.com/slider/flexslider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 39 seconds : 181 links scanned, 161 files written (16475773 bytes overall) [16335973 bytes received at 165009 bytes/sec], 286879 bytes transferred using HTTP compression in 39 files, ratio 30%, 12.9 requests per connection
+(19 errors, 0 warnings, 0 messages)
